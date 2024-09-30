@@ -1,0 +1,7 @@
+repos:
+  - repo: local
+    hooks:
+      - id: no-op
+        name: No Operation Hook
+        entry: echo "This hook does nothing."
+        language: system
