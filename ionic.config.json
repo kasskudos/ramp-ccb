@@ -1,0 +1,8 @@
+{
+  "name": "ramp-ccb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "5fdaa6c7"
+}
